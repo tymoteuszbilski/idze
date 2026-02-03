@@ -1,2 +1,2 @@
 # idze
-idea for an traveling forum
+idea for a traveling forum
